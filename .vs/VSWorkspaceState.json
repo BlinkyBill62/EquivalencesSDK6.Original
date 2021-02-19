@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\EquivalencesSDK6"
+    "\\EquivalencesSDK6",
+    "\\packages"
   ],
-  "SelectedNode": "\\.gitignore",
+  "SelectedNode": "\\EquivalencesSDK6",
   "PreviewInSolutionExplorer": false
 }

@@ -22,7 +22,7 @@ namespace EquivalencesSDK6
             routes.MapRoute(
               name: "Default",
               url: "{controller}/{action}/{id}",
-              defaults: new { controller = "Question", action = "Equivalences", id = UrlParameter.Optional }
+              defaults: new { controller = "Equivalence", action = "Index", id = UrlParameter.Optional }
           );
         }
     }
